@@ -1,0 +1,1 @@
+Solutions to code puzzles culled from a variety of sources.
